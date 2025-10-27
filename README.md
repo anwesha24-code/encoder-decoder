@@ -69,6 +69,16 @@ keypad-encryption/
 🧩 **Error Handling** — Displays clear feedback for invalid inputs.  
 
 ---
+---
+
+## 🖼️ Preview  
+
+<p align="center">
+  <img src="https://github.com/anwesha24-code/encoder-decoder/blob/0d237b2eb19f1bb88fca28cbec686c0326360afc/screenshots/Screenshot%202025-10-27%20125114.png?raw=true" alt="Keypad Encryption Screenshot" width="700"/>
+</p>
+
+---
+
 
 ## 🧭 Pages & Components  
 
